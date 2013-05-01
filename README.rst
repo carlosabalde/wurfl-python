@@ -1,6 +1,6 @@
 **WURFL Python** allows matching user agent strings with devices in the `WURFL database <http://wurfl.sourceforge.net>`_ (Wireless Universal Resource File) using Python. Matching strategies have been directly ported from `WURFL PHP <http://wurfl.sourceforge.net/php_index.php>`_ library (v1.4.1 at the moment). However, unlike WURFL PHP, WURFL Python focus **only** on matching user agents with devices in the WURFL database. Specifically,
 
-- No caching infrastructure is provided, but you can implement it trivialy in your application. You know better than me what's the best caching strategy in your scenario.
+- No caching infrastructure is provided, but you can implement it trivially in your application. You know better than me what's the best caching strategy in your scenario.
 
 - Only 'accuracy' matching mode is provided. You don't need 'performance' mode. No, you don't. What you need is a reasonable caching layer.
 
@@ -17,9 +17,9 @@ QuickStart
 
     ~$ pip install wurfl-python
 
-2. Download latest version of the `WURFL database <http://wurfl.sourceforge.net/wurfl_download.php>`_.
+2. Download the latest version of the `WURFL database <http://wurfl.sourceforge.net/wurfl_download.php>`_.
 
-3. Convert XML database in a convenient Python module. If you're not interested in all capabilities in the database, you can reduce size of the output Python module selecting only those capability groups you are interested in::
+3. Convert the XML database in a convenient Python module. If you're not interested in all the capabilities in the database, you can reduce the size of the output Python module selecting only those capability groups you are interested in::
 
     ~$ wurfl-python-processor /path/to/wurfl.xml --output=wurfl.py --group product_info --group display
 
@@ -46,4 +46,4 @@ QuickStart
 Alternatives
 ============
 
-Closest Python alternative project is `pywurfl <https://pypi.python.org/pypi/pywurfl/>`_. Unfortunattly, pywurfl has been unmaintained for some years.
+Closest Python alternative project is `pywurfl <https://pypi.python.org/pypi/pywurfl/>`_. Unfortunately, pywurfl has not received maintenance for some years.
