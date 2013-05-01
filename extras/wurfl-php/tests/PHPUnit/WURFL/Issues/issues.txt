@@ -1,0 +1,58 @@
+# mail of Arief Bayu Purwanto 15-08-2009 matched as netfront_ver3_4
+SonyEricssonK660i/R1EA Browser/NetFront/3.4 Profile/MIDP-2.1 Configuration/CLDC-1.1=sonyericsson_k660i_ver1_subr1ed
+
+# Java Api Problems Just for double check
+# Vodafone/1.0/SEX1i/R1AA Opera/9.5 (Microsoft Windows; PPC; Opera Mobi/2141; U; DE) UP.Link/6.3.1.20.0 Profile/MIDP-2.0 Configuration/CLDC-1.1=sonyericsson_x1i_ver1_subopera15431
+Vodafone/1.0/LG-HB620T/V10b Browser/Obigo-Q05A/3.12 MMS/LG-MMS-V1.0/1.2 Java/ASVM/1.1 Profile/MIDP-2.1 Configuration/CLDC-1.1=lg_hb620t_ver1_subuavoda
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729)=firefox_3
+Mozilla/5.0 (X11; U; Linux armv7l; en-GB; rv:1.9.2a1pre) Gecko/20090928 Firefox/3.5 Maemo Browser 1.4.1.21 RX-51 N900=nokia_n900_ver1
+
+# Ticket #48 before fix identified as generic
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912/812; U; en) Presto/2.2.0=uabait_opera_mini_v42_op98
+
+# Ticket #49 Identified as mobile browser 
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)=msie_8
+
+# Ticket #50 Before Fix Identified as nokia_n900_ver1_subua /goodaccess_ver1_submsiepocketpc
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)=msie_6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2)=msie_6
+
+# Before Fix Identified as tranxcode_mercury_proxy
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)=msie_7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-us) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1=safari_525_mac_osx
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; SPV M700; OpVer 19.123.2.733) OrangeBot-Mobile 2008.0=mowser_transcoder
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; SPV M700; OpVer 19.123.2.733)=orange_spv_m700_sub191231615
+
+#Tick #56  Before Fix Identified as mot_w760r_ver1
+Mozilla/4.0 (compatible; MSIE 6.0; Sitekit.net Linkchecker Bot;=google_wireless_transcoder_ver1
+
+#Ticket #57 Before Fix Identifed as samsung_sgh_t939_ver1(How to handle this Modify HTC Handler
+Mozilla/5.0 (Linux; U; Android 1.5; ru-ru; HTC Hero Build/CUPCAKE) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1=htc_hero_ver1_cupcake_subense
+
+#Ticket #58 Before fix Identified as Apple, iPhone
+Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6630/6.03.08; 1665) Opera 8.60 [en]=nokia_6630_ver1_subopera865_403389424
+
+#Ticket #65
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.5.22 Version/10.51=opera_9
+
+Nokia8800e-1/2.0 (10.00) Profile/MIDP-2.1 Configuration/CLDC-1.1=nokia_8800e_ver1
+
+#Ticket #163
+LG265/1.0 UP.Browser/6.2.3.9 (GUI) MMP/2.0=lg_265_ver1_subua
+#LGE-LG265 POLARIS/6.01 MMP/2.0=lg_265_ver1
+#LGE-LG265/1.0 UP.Browser/6.2.3.8 (GUI) MMP/2.0=lg_265_ver1
+
+UP.Link/6.3.1.20.0=generic
+r451[TF268435459008190622000000014792163290] UP.Browser/6.2.3.8 (GUI) MMP/2.0=samsung_sch_r451_ver1
+r451[TF268435459004279523000000018506935015] UP.Browser/6.2.3.8 (GUI) MMP/2.0 Novarra-Vision/8.0=opwv_v62_generic
+
+# Maemo
+Mozilla/5.0 (X11; U; Linux armv7l; pt-PT; rv:1.9.2a1pre) Gecko/20090928 Firefox/3.5 Maemo Browser 1.4.1.21 RX-51 N900,gzip(gfe) (via translate.google.com)=nokia_n900_ver1
+Mozilla/5.0 (X11; U; Linux armv7l; de-DE; rv:1.9.2b3pre) Gecko/20100107 Firefox/3.5 Maemo Browser 1.6.5.6 RX-51 N900=nokia_n900_ver1
+Mozilla/5.0 (X11; U; Linux armv7l; en-US; rv:1.9.2b6pre) Gecko/20100301 Firefox/3.5 Maemo Browser 1.7.4.7=nokia_n900_ver1
+
+# LG
+#Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0;480*800; WV02.00.02;;lgtelecom; EB10-20100804-178697799;LG-LU3700;0)=lg
+
+Mozilla/5.0 (Linux; U; Android 2.2; en-us; myTouchHD Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1=mot_a953_ver1_subblur
+Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; myTouchHD Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1=mot_a953_ver1_subblur

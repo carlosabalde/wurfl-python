@@ -1,0 +1,10 @@
+WURFL Python developers are:
+
+    - Carlos Abalde <carlos.abalde@gmail.com>
+
+WURFL Python implementation intentionally mimics WURFL PHP impementation
+by ScientiaMobile, Inc (see extras/wurfl-php) to ease maintenance of future
+releases.
+
+Some good ideas and inspiration have been taken from pywurfl
+(https://pypi.python.org/pypi/pywurfl/) by Armand Lynch. Thank you!

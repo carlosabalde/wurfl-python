@@ -1,0 +1,4 @@
+project.sublime-project
+project.sublime-workspace
+.vagrant/*
+*.pyc

@@ -1,0 +1,4 @@
+Opera/10.00 (Windows NT 6.0; U; en) Presto/2.2.0=Opera/10
+Opera/9.0 (Microsoft Windows; PPC; Opera Mobile/331; U; en)=Opera/9
+Opera/9.00 (Windows NT 5.1; U; de)=Opera/9
+Opera/9.5 (Microsoft Windows; PPC; Opera Mobi/2392; U; en)=Opera/9

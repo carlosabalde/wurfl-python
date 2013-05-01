@@ -1,0 +1,2 @@
+r451[TF268435459008190622000000014792163290] UP.Browser/6.2.3.8 (GUI) MMP/2.0=samsung_sch_r451_ver1
+Mozilla/5.0 (X11; U; Linux armv7l; en-GB; rv:1.9.2a1pre) Gecko/20090928 Firefox/3.5 Maemo Browser 1.4.1.21 RX-51 N900=nokia_n900_ver1_subua

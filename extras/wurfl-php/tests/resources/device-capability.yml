@@ -1,0 +1,19 @@
+# This file is a list of deviceId and capability value.
+# the capability are not only of the device itself, but also
+# of their fallback
+
+ericsson_t20_ver1:display:resolution_width:101
+ericsson_t20_ver1:display:resolution_height:33
+ericsson_t20_ver1:product_info:brand_name:Ericsson
+ericsson_t20_ver1:wml_ui:icons_on_menu_items_support:false
+
+
+# Nokia Device
+nokia_6610_ver1:sound_format:mp3:false
+nokia_6610_ver1:storage:max_deck_size:65535
+nokia_6300_ver1_sub0470:sound_format:mp3:false
+
+# Firefox
+"firefox_3", "brand_name","firefox"
+"firefox_3","model_name","3"
+"firefox_2", "is_wireless_device", "false"
