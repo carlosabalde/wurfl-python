@@ -3,9 +3,10 @@
 WURFL Python
 ============
 
-WURFL Python allows matching user agent strings with devices in the WURFL database
-using Python. Check out https://github.com/carlosabalde/wurfl-python
-for a detailed description, extra documentation and other useful information.
+WURFL Python allows matching user agent strings with devices in the WURFL
+(Wireless Universal Resource File) database using Python. Check out
+https://github.com/carlosabalde/wurfl-python for a detailed description,
+extra documentation and other useful information.
 
 :copyright: (c) 2013 by Carlos Abalde, see AUTHORS.txt for more details.
 :license: GPL, see LICENSE.txt for more details.

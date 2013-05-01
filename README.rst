@@ -1,4 +1,4 @@
-**WURFL Python** allows matching user agent strings with devices in the `WURFL database <http://wurfl.sourceforge.net>`_ using Python. Matching strategies have been directly ported from `WURFL PHP <http://wurfl.sourceforge.net/php_index.php>`_ library (v1.4.1 at the moment). However, unlike WURFL PHP, WURFL Python focus **only** on matching user agents with devices in the WURFL database. Specifically,
+**WURFL Python** allows matching user agent strings with devices in the `WURFL database <http://wurfl.sourceforge.net>`_ (Wireless Universal Resource File) using Python. Matching strategies have been directly ported from `WURFL PHP <http://wurfl.sourceforge.net/php_index.php>`_ library (v1.4.1 at the moment). However, unlike WURFL PHP, WURFL Python focus **only** on matching user agents with devices in the WURFL database. Specifically,
 
 - No caching infrastructure is provided, but you can implement it trivialy in your application. You know better than me what's the best caching strategy in your scenario.
 
