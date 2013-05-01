@@ -6,7 +6,9 @@
 
 - Facilities for editing or making creative queries on the WURFL database are not provided. Use something else for that. That's out of the scope of this project.
 
-In order to make life easier when syncing with future changes in WURFL PHP, WURFL Python intentionally mimics the implementation of the core matching features in WURFL PHP. If you notice any different behavior between WURFL PHP and WURFL Python, please, `post an issue <https://github.com/dot2code/wurfl-python/issues>`_. Current reference PHP implementation ins available in extras/wurfl-php.
+In order to make life easier when syncing with future changes in WURFL PHP, WURFL Python intentionally mimics the implementation of the core matching features in WURFL PHP. If you notice any different behavior between WURFL PHP and WURFL Python, please, `post an issue <https://github.com/carlosabalde/wurfl-python/issues>`_ providing some user agent example.
+
+Current reference PHP implementation (1.4.1) is available in `extras/wurfl-php <https://github.com/carlosabalde/wurfl-python/tree/master/extras/wurfl-php>`_.
 
 QuickStart
 ==========
@@ -17,11 +19,7 @@ QuickStart
 
 2. Download latest version of the `WURFL database <http://wurfl.sourceforge.net/wurfl_download.php>`_.
 
-3. Convert XML database in a convenient Python module::
-
-    ~$ wurfl-python-processor /path/to/wurfl.xml --output=wurfl.py
-
-  If you're not interested in all capabilities in the database, you can reduce size of the output Python module selecting only those capability groups you are interested in. For example::
+3. Convert XML database in a convenient Python module. If you're not interested in all capabilities in the database, you can reduce size of the output Python module selecting only those capability groups you are interested in::
 
     ~$ wurfl-python-processor /path/to/wurfl.xml --output=wurfl.py --group product_info --group display
 
@@ -48,4 +46,4 @@ QuickStart
 Alternatives
 ============
 
-Closect Python alternative project is `pywurfl <https://pypi.python.org/pypi/pywurfl/>`_. Unfortunattly, pywurfl has been unmaintained for some years.
+Closest Python alternative project is `pywurfl <https://pypi.python.org/pypi/pywurfl/>`_. Unfortunattly, pywurfl has been unmaintained for some years.
