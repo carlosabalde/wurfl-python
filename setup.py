@@ -23,7 +23,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     url='https://github.com/carlosabalde/wurfl-python',
-    description='WURFL Python.',
+    description='WURFL Python: matching user agent strings with devices in the WURFL database using Python.',
     long_description=__doc__,
     license='GPL',
     entry_points={
