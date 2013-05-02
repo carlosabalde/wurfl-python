@@ -10,6 +10,17 @@ In order to make life easier when syncing with future changes in WURFL PHP, WURF
 
 Current reference PHP implementation (1.4.1) is available in `extras/wurfl-php <https://github.com/carlosabalde/wurfl-python/tree/master/extras/wurfl-php>`_.
 
+Closest Python alternative project is `pywurfl <https://pypi.python.org/pypi/pywurfl/>`_. Unfortunately, pywurfl has not received maintenance for some years.
+
+Dual Licensing Scheme
+=====================
+
+As of August 30, 2011, WURFL is `licensed under a dual-license model <http://tech.groups.yahoo.com/group/wmlprogramming/message/34311>`_, using the AGPL license for non-commercial use and a proprietary commercial license. The current version of the WURFL database itself is **no longer open source**.
+
+Due to the new WURFL licence model and the cloud detection service provided by ScientaMobile, future versions of WURFL PHP are not expected. Therefore, future versions of WURFL Python are also not expected. As a consecuence, the number of wrong detections will keep growing as times goes by.
+
+Usage of WURFL (WURFL Python included) is **not recommended for new projects**. Please, check out alternative open projects like `Apache DeviceMap <http://incubator.apache.org/devicemap/>`_.
+
 QuickStart
 ==========
 
@@ -42,8 +53,3 @@ QuickStart
 
     >>> print device.model_name
     GT i7500
-
-Alternatives
-============
-
-Closest Python alternative project is `pywurfl <https://pypi.python.org/pypi/pywurfl/>`_. Unfortunately, pywurfl has not received maintenance for some years.
